@@ -24,6 +24,18 @@ types
   Implemented a system for recruiters & hiring managers to
 provide feedback on rejection
 </ul>
+Tech Stack:
+<ul></ul>
+<ul>
+ Frontend: NextJS, React, Typescript
+</ul>
+<ul>
+ Backend: Prisma ORM, Express
+</ul>
+<ul>
+ Styling: Tailwind CSS, MUI, Shadcn
+</ul>
+
  Here is the link to the portfolio project: https://recruitment-dashboard-frontend.vercel.app/
 
 
