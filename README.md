@@ -1,6 +1,9 @@
 ### Hi there 👋 I am Shruti 😊
 I am a former technical recruiter, currently transitioning into a software engineering role.
 I completed a rigorous 10-week full-stack coding boot camp at Mind-Mingle. Throughout the program, I honed my technical skills in TypeScript, HTML, and CSS using the NextJS framework to build web applications.
+My background in talent acquisition has equipped me with valuable insights into team building and navigating the tech industry. This experience has instilled in me the confidence to seamlessly integrate into collaborative environments. I am enthusiastic about bringing my unique blend of technical expertise, team-building experience, and positive outlook to an organization.
+
+At present, I am actively seeking job opportunities where I can apply my newly acquired skills and contribute to solving real-world problems or projects.
 
 <!--
 **JShruti/JShruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
