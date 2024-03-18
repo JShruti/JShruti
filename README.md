@@ -2,6 +2,9 @@
 <h1 align='center' style='color:#0E3386;'>Hi there 👋, I'm Shruti 😊</h1>
 <p align='center'>
 I am a former technical recruiter, currently transitioning into a software engineering role. I completed a rigorous 10-week full-stack coding boot camp at <a href="https://www.mindmingle.nl/certificates/fmqolnwgnfldlw1">Mind-Mingle</a>.Throughout the program, I honed my technical skills in TypeScript, HTML, and CSS using the NextJS framework to build web applications. My background in talent acquisition has equipped me with valuable insights into team building and navigating the tech industry. This experience has instilled in me the confidence to seamlessly integrate into collaborative environments. I am enthusiastic about bringing my unique blend of technical expertise, team-building experience, and positive outlook to an organization. At present, I am actively seeking job opportunities where I can apply my newly acquired skills and contribute to solving real-world problems or projects
+<p align='center'>
+  <a href="https://www.linkedin.com/in/hrmshruti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hrm.shruti@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <h3 align="left">Skills</h3>
