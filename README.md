@@ -3,40 +3,49 @@ I am a former technical recruiter, currently transitioning into a software engin
 
 
 <h3 align="left">Skills</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-3C873A?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-15B7B9?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+</p>
 
-<h3 align="left">Project:Talent Forge</h3>
+<h5>BACKEND</h5>
+<p>
+  <img src="https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=red" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Prisma-8A2BE2?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;&nbsp;
+</p>
 
-Description: The project aims to address the needs of three different user groups (recruiters, hiring managers, and candidates) for their hiring processes. The application enables candidates to create profiles, view open roles, and submit applications. For recruiters, it serves as a platform to manage roles, and applicants, and create new job listings. Hiring managers can oversee open/closed roles, manage applicant status, and create new job listings.
+<h5>TESTING</h5>
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;&nbsp;
+  
+</p>
 
-Features:
-<ul>
- Implemented a secure user authentication system for all user
-types
-</ul>
-<ul>
-  Status dashboard available for all personas
-</ul>
-<ul>
-  Enabled candidates to upload images & resume
-</ul>
-<ul>
-  Implemented a system for recruiters & hiring managers to
-provide feedback on rejection
-</ul>
-Tech Stack:
-<ul></ul>
-<ul>
- Frontend: NextJS, React, Typescript
-</ul>
-<ul>
- Backend: Prisma ORM, Express
-</ul>
-<ul>
- Styling: Tailwind CSS, MUI, Shadcn
-</ul>
+<h3 align="left">Project</h3>
+
+### Talent Forge
+- **Description**: The project aims to address the needs of three different user groups (recruiters, hiring managers, and candidates) for their hiring processes. The application enables candidates to create profiles, view open roles, and submit applications. For recruiters, it serves as a platform to manage roles, and applicants, and create new job listings. Hiring managers can oversee open/closed roles, manage applicant status, and create new job listings.
+
+- **Features**:
+- Implemented a secure user authentication system for all user types
+- Status dashboard available for all personas
+- Enabled candidates to upload images & resume
+- Implemented a system for recruiters & hiring managers to provide feedback on rejection
+- **Tech Stack**:
+
+ - **Frontend**: NextJS, React, Typescript
+
+ - **Backend**:Prisma ORM, Express
+
+ - **Styling**: Tailwind CSS, MUI, Shadcn
 
  Here is the link to the portfolio project: https://recruitment-dashboard-frontend.vercel.app/
+ <img src="asset/physio_homepage.png" style="width: 300px; height: 400px;">
 
 
  
